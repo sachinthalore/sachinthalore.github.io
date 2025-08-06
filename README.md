@@ -5,7 +5,6 @@ My personal portfolio and projects.
 Welcome to my personal portfolio! I'm a passionate computer vision enthusiast with a focus on building practical projects.
 
 ### **About Me**
-### **About Me**
 
 Hi! I'm Sachin Thalore, a second-year B.Tech CSE student specializing in AI/ML. I have a strong interest in computer vision and am building projects to gain hands-on experience. My work includes a project on end-to-end face swapping, which is a key highlight of my portfolio.
 ---
@@ -14,7 +13,7 @@ Hi! I'm Sachin Thalore, a second-year B.Tech CSE student specializing in AI/ML. 
 * **End-to-End Face Swapping Workflow:**
   A project showcasing a full workflow from dataset creation to video enhancement.
   **[View Project on GitHub](https://github.com/sachinthalore/End-to-End-Face-Swapping-Workflow)**
-  <>
+  
 
 
 
