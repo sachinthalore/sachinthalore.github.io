@@ -13,13 +13,13 @@ Hi! I'm Sachin Thalore, a second-year B.Tech CSE student specializing in AI/ML. 
 ### **My Projects**
 * **End-to-End Face Swapping Workflow:**
   A project showcasing a full workflow from dataset creation to video enhancement.
-  **[View Project on GitHub](https://github.com/sachinthalore/Face-Swapping-Project)**
+  **[View Project on GitHub](https://github.com/sachinthalore/End-to-End-Face-Swapping-Workflow)**
   <>
 
-<Agar tumhare aur projects hain toh unko bhi yahan list kar sakte ho.>
+
 
 ---
 
 ### **Let's Connect**
-* **LinkedIn:** [My LinkedIn Profile](tumhari-linkedin-profile-ka-link)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sachin-thalore-2b3794321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * **GitHub:** [My GitHub Profile](https://github.com/sachinthalore)
